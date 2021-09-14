@@ -1,3 +1,37 @@
+html,
+body {
+  font-family: Arial;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: 43px;
+  text-align: center;
+}
+
+.header {
+  margin: 0;
+}
+
+body {
+  background-color: lightgray;
+}
+
+p {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
